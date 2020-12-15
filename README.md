@@ -13,6 +13,12 @@ TheLink is provided free-of-charge.
 
 Designed by Olivier Merlet, based on AutoIt from Jonathan Bennett (www.autoitscript.com)
 
+## Version history
+- 1.3 (12/2020) : Support for X AIR Edit and M AIR Edit version 1.6,
+Added support for the “Resize” feature in AIR Edit - with some limitations:
+Both AIR Edit and TheLink have to be restarted for changes to take effect, Be sure to keep the whole AIR Edit interface visible to avoid strange behaviour 
+- 1.1 (05/2020) : First public release, Support for X AIR Edit and M AIR Edit version 1.5
+
 ## Main Features
 - Zero configuration tool: TheLink get all what it needs from AIR Edit and from your digital mixer, and
 auto detects your X-Touch Mini Controller.
