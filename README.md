@@ -1,3 +1,10 @@
+!!!!!! Latest news: \
+TheLink-Color: a midi extension to display channel scribble trip colors \
+Crowdfunding campaign starting now:
+https://www.indiegogo.com/projects/thelink-color/ \
+Please help to fund this project!
+
+
 # TheLink
 TheLink app
 
