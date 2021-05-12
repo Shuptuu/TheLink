@@ -1,8 +1,15 @@
 !!!!!! Latest news: \
-TheLink-Color: a midi extension to display channel scribble trip colors \
-Crowdfunding campaign starting now:
-https://www.indiegogo.com/projects/thelink-color/ \
-Please help to fund this project!
+Unfortunately, due to the covid context, I’m not able to work for free anymore...
+So TheLink comes now in a demo version, fully functional but with pop-up messages every 5 minutes asking for a donation.
+There’s no minimum amount, it all helps!
+Once done, you will receive a license key which will stop pop-up messages appearing in future.
+The license key is personnal but with a permanent validity and can be use on several computers.
+
+Version 1.5 available: \
+-Support for X AIR Edit and M AIR Edit version 1.7 \
+-New features: \
+ • Main fader mapping. The main fader can apply to Main Bus, Bus 1 to 6, Fx 1 to 4, DCA 1 to 4. \
+ • Alternate command for Tap FX
 
 
 # TheLink
@@ -21,6 +28,7 @@ TheLink is provided free-of-charge.
 Designed by Olivier Merlet, based on AutoIt from Jonathan Bennett (www.autoitscript.com)
 
 ## Version history
+- 1.5 (05/2021) : Support for X AIR Edit and M AIR Edit version 1.7, New features: Main fader mapping. The main fader can apply to Main Bus, Bus 1 to 6, Fx 1 to 4, DCA 1 to 4. Alternate command for Tap FX
 - 1.3 (12/2020) : Support for X AIR Edit and M AIR Edit version 1.6,
 Added support for the “Resize” feature in AIR Edit - with some limitations:
 Both AIR Edit and TheLink have to be restarted for changes to take effect, Be sure to keep the whole AIR Edit interface visible to avoid strange behaviour 
