@@ -23,8 +23,6 @@ through the local network (Ethernet or Wifi), using your X-Touch Mini device.
 
 It literally makes the link between X-Touch Mini, AIR Edit and your digital mixer.
 
-TheLink is provided free-of-charge.
-
 Designed by Olivier Merlet, based on AutoIt from Jonathan Bennett (www.autoitscript.com)
 
 ## Version history
