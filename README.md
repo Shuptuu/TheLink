@@ -64,4 +64,14 @@ TheLink.
 - Now, follow on with X-AIR edit or M-AIR edit to connect to your digital mixer. There’s nothing else to
 do for TheLink, just enjoy!
 
+## Antivirus
+TheLink may be detected as a false positive by your antivirus. \
+If you’re using default microsoft defender, you can allow this app on your computer by doing this: \
+   • Click on the security alert notification or launch defender (windows security) \
+   • Click on protection history \
+   • Select the one regarding TheLink and on Actions, select allow \
+If you still have problems, please download and install autoit from this place: \
+https://www.autoitscript.com/site/autoit/downloads/ \
+And use TheLink.a3x or TheLink_x64.a3x instead of the .exe file.
+
 AND READ THE USER MANUAL FOR MORE DETAILS!
