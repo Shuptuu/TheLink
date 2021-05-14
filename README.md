@@ -51,6 +51,7 @@ Selections in AIR Edit are also reflected on X-Touch Mini. So you’re never los
 ## Quickstart
 - Download the zip file on your computer and decompress it.
 - The .exe file you get is not an installer, it’s directly the app.
+- Use the 64 bit version as a priority to avoid any antivirus problems (see below).
 - Copy the .exe file where you want on your computer, preferably where X-AIR edit or M-AIR edit is
 located (so TheLink will be able to start it automatically for you).
 - Make sure your X-Touch Mini controller is connected to your computer, in Mackie Control mode
@@ -63,13 +64,13 @@ TheLink.
 do for TheLink, just enjoy!
 
 ## Antivirus
-TheLink may be detected as a false positive by your antivirus. \
+TheLink may be detected as a false positive by your antivirus, especially the 32 bit version. \
 If you’re using default microsoft defender, you can allow this app on your computer by doing this: \
    • Click on the security alert notification or launch defender (windows security) \
    • Click on protection history \
    • Select the one regarding TheLink and on Actions, select allow \
 If you still have problems, please download and install autoit from this place: \
 https://www.autoitscript.com/site/autoit/downloads/ \
-And use TheLink.a3x or TheLink_x64.a3x instead of the .exe file.
+And use TheLink.a3x instead of the .exe file.
 
 AND READ THE USER MANUAL FOR MORE DETAILS!
