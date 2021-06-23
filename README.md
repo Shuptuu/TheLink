@@ -26,6 +26,7 @@ It literally makes the link between X-Touch Mini, AIR Edit and your digital mixe
 Designed by Olivier Merlet, based on AutoIt from Jonathan Bennett (www.autoitscript.com)
 
 ## Version history
+- 1.5.1 (06/2021) : fix error when changing EQ mode (PEQ/GEQ/TEQ) for main channel or buses
 - 1.5 (05/2021) : Support for X AIR Edit and M AIR Edit version 1.7, New features: Main fader mapping. The main fader can apply to Main Bus, Bus 1 to 6, Fx 1 to 4, DCA 1 to 4. Alternate command for Tap FX
 - 1.3 (12/2020) : Support for X AIR Edit and M AIR Edit version 1.6,
 Added support for the “Resize” feature in AIR Edit - with some limitations:
