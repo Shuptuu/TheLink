@@ -2,6 +2,7 @@
 Unfortunately, due to the covid context, I’m not able to work for free anymore...
 So TheLink comes now in a demo version, fully functional but with pop-up messages every 5 minutes asking for a donation.
 There’s no minimum amount, it all helps!
+If paypal doesn't support donations through this system in your country, you can use this link: https://www.paypal.com/paypalme/TheLinkOlivier
 Once done, you will receive a license key which will stop pop-up messages appearing in future.
 The license key is personnal but with a permanent validity and can be use on several computers.
 
