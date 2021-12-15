@@ -4,7 +4,8 @@ So TheLink comes now in a demo version, fully functional but with pop-up message
 There’s no minimum amount, it all helps!  \
 If paypal doesn't support donations through this system in your country, you can use this link: https://www.paypal.com/paypalme/TheLinkOlivier  \
 Once done, you will receive a license key which will stop pop-up messages appearing in future.  \
-The license key is personnal but with a permanent validity and can be use on several computers. 
+The license key is personnal but with a permanent validity and can be use on several computers.  \
+I will need your email address to send you the key. So please make sure your address is visible in your paypal profil or send me a private message.
 
 Version 1.5 available: \
 -Support for X AIR Edit and M AIR Edit version 1.7 \
