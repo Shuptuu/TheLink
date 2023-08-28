@@ -1,4 +1,9 @@
 !!!!!! Latest news: \
+Version 1.6 available: \
+-Support for X AIR Edit and M AIR Edit version 1.8 \
+-New feature: \
+ • Main Bus control and Lock feature in Buses Mode \
+
 Unfortunately, due to the covid context, I’m not able to work for free anymore...
 So TheLink comes now in a demo version, fully functional but with pop-up messages every 5 minutes asking for a donation.
 There’s no minimum amount, it all helps!  \
@@ -6,13 +11,6 @@ If paypal doesn't support donations through this system in your country, you can
 Once done, you will receive a license key which will stop pop-up messages appearing in future.  \
 The license key is personnal but with a permanent validity and can be use on several computers.  \
 I will need your email address to send you the key. So please make sure your address is visible in your paypal profil or send me a private message.
-
-Version 1.5 available: \
--Support for X AIR Edit and M AIR Edit version 1.7 \
--New features: \
- • Main fader mapping. The main fader can apply to Main Bus, Bus 1 to 6, Fx 1 to 4, DCA 1 to 4. \
- • Alternate command for Tap FX
-
 
 # TheLink
 TheLink app
@@ -28,6 +26,7 @@ It literally makes the link between X-Touch Mini, AIR Edit and your digital mixe
 Designed by Olivier Merlet, based on AutoIt from Jonathan Bennett (www.autoitscript.com)
 
 ## Version history
+- 1.6 (08/2023): Support for X AIR Edit and M AIR Edit version 1.8, New feature: Main Bus control and Lock feature in Buses Mode
 - 1.5.1 (06/2021) : fix error when changing EQ mode (PEQ/GEQ/TEQ) for main channel or buses
 - 1.5 (05/2021) : Support for X AIR Edit and M AIR Edit version 1.7, New features: Main fader mapping. The main fader can apply to Main Bus, Bus 1 to 6, Fx 1 to 4, DCA 1 to 4. Alternate command for Tap FX
 - 1.3 (12/2020) : Support for X AIR Edit and M AIR Edit version 1.6,
