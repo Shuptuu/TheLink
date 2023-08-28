@@ -2,9 +2,9 @@
 Version 1.6 available: \
 -Support for X AIR Edit and M AIR Edit version 1.8 \
 -New feature: \
- • Main Bus control and Lock feature in Buses Mode \
+ • Main Bus control and Lock feature in Buses Mode 
 
-Unfortunately, due to the covid context, I’m not able to work for free anymore...
+Unfortunately, since the covid, I’m not able to work for free anymore...
 So TheLink comes now in a demo version, fully functional but with pop-up messages every 5 minutes asking for a donation.
 There’s no minimum amount, it all helps!  \
 If paypal doesn't support donations through this system in your country, you can use this link: https://www.paypal.com/paypalme/TheLinkOlivier  \
@@ -66,7 +66,7 @@ TheLink.
 do for TheLink, just enjoy!
 
 ## Antivirus
-TheLink may be detected as a false positive by your antivirus, especially the 32 bit version. \
+TheLink may be detected as a false positive by your antivirus. \
 If you’re using default microsoft defender, you can allow this app on your computer by doing this: \
    • Click on the security alert notification or launch defender (windows security) \
    • Click on protection history \
