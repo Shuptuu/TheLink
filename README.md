@@ -53,7 +53,6 @@ Selections in AIR Edit are also reflected on X-Touch Mini. So you’re never los
 ## Quickstart
 - Download the zip file on your computer and decompress it.
 - The .exe file you get is not an installer, it’s directly the app.
-- Use the 64 bit version as a priority to avoid any antivirus problems (see below).
 - Copy the .exe file where you want on your computer, preferably where X-AIR edit or M-AIR edit is
 located (so TheLink will be able to start it automatically for you).
 - Make sure your X-Touch Mini controller is connected to your computer, in Mackie Control mode
